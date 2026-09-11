@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+websockets
+scikit-learn
+numpy
+pandas
+deep-translator
+indic-transliteration

@@ -1,0 +1,23 @@
+# Research paper and literature survey
+research paper/
+literature survey/
+
+# README
+README.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Large media files
+*.mov
+
+# Large data files (add separately if needed)
+Dataset/
+output/
+
+# OS files
+.DS_Store
